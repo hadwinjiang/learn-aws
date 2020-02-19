@@ -2,10 +2,12 @@
 
 ## AWS Services
 
-### [CDK](/cdk)
-### [EKS](/eks)
-### [Lambda](/lambda)
-### [SageMaker](/sagemaker)
+### [AWS Security](/domains/security)
+### [CDK](/services/cdk)
+### [EKS](/services/eks)
+### [Lambda](/services/lambda)
+### [SageMaker](/services/sagemaker)
+
 
 ## Useful links
 * [AWS Architecture Center](https://aws.amazon.com/architecture/)
