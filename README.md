@@ -5,6 +5,7 @@
 ### [AWS Security](/domains/security)
 ### [CDK](/services/cdk)
 ### [EKS](/services/eks)
+### [FSx](/services/fsx)
 ### [Lambda](/services/lambda)
 ### [SageMaker](/services/sagemaker)
 
