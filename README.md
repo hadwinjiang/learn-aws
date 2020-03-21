@@ -3,12 +3,18 @@
 ## AWS Services
 
 ### [AWS Security](/domains/security)
+### [Athena](/services/athena)
 ### [CDK](/services/cdk)
 ### [EKS](/services/eks)
+### [ElasticSearch](/services/elasticsearch)
 ### [FSx](/services/fsx)
+### [Kinesis](/services/kinesis)
 ### [Lambda](/services/lambda)
+### [Redshift](/services/redshift)
 ### [SageMaker](/services/sagemaker)
 
+## AWS Solutions
+* [Highlighted Solutions](/solutions)
 
 ## Useful links
 * [AWS Architecture Center](https://aws.amazon.com/architecture/)
