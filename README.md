@@ -2,7 +2,6 @@
 
 ## AWS Services
 
-### [AWS Security](/domains/security)
 ### [Athena](/services/athena)
 ### [CDK](/services/cdk)
 ### [EKS](/services/eks)
@@ -12,6 +11,11 @@
 ### [Lambda](/services/lambda)
 ### [Redshift](/services/redshift)
 ### [SageMaker](/services/sagemaker)
+
+## Technical Domains
+
+### [Network](/domains/network)
+### [Security](/domains/security)
 
 ## AWS Solutions
 * [Highlighted Solutions](/solutions)
