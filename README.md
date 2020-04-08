@@ -17,6 +17,7 @@
 
 ### [Network](/domains/network)
 ### [Security](/domains/security)
+### [Serverless](/domains/serverless)
 
 ## AWS Solutions
 * [Highlighted Solutions](/solutions)
