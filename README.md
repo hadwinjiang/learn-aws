@@ -10,6 +10,7 @@
 ### [FSx](/services/fsx)
 ### [Kinesis](/services/kinesis)
 ### [Lambda](/services/lambda)
+### [Managed Streaming for Apache Kafka](/services/msk)
 ### [Redshift](/services/redshift)
 ### [SageMaker](/services/sagemaker)
 
