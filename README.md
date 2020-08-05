@@ -16,6 +16,7 @@
 
 ## Technical Domains
 
+### [Developer](/domains/developer)
 ### [Network](/domains/network)
 ### [Security](/domains/security)
 ### [Serverless](/domains/serverless)
