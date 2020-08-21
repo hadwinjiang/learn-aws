@@ -16,6 +16,7 @@
 
 ## Technical Domains
 
+### [Cost Saving](/domains/cost)
 ### [Developer](/domains/developer)
 ### [Network](/domains/network)
 ### [Security](/domains/security)
