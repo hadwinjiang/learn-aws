@@ -8,6 +8,7 @@
 ### [EKS](/services/eks)
 ### [ElasticSearch](/services/elasticsearch)
 ### [EMR](/services/emr)
+### [EventBridge](/services/eventbridge)
 ### [FSx](/services/fsx)
 ### [Kinesis](/services/kinesis)
 ### [Lambda](/services/lambda)
