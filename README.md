@@ -23,6 +23,7 @@
 ### [Network](/domains/network)
 ### [Security](/domains/security)
 ### [Serverless](/domains/serverless)
+### [Well-Architected](/domains/wellarchitect)
 
 ## AWS Solutions
 * [Highlighted Solutions](/solutions)
