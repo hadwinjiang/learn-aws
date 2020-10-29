@@ -14,6 +14,7 @@
 ### [Lambda](/services/lambda)
 ### [Managed Streaming for Apache Kafka](/services/msk)
 ### [Redshift](/services/redshift)
+### [RDS](/services/rds)
 ### [SageMaker](/services/sagemaker)
 
 ## Technical Domains
