@@ -7,3 +7,7 @@
 ## Resource
 
 * [AWS Serverless Application Repository](https://aws.amazon.com/serverless/serverlessrepo/)
+
+## Workshops
+
+* [CI/CD FOR SERVERLESS APPLICATIONS](https://cicd.serverlessworkshops.io/)
