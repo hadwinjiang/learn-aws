@@ -8,3 +8,4 @@
 ## Workshops
 
 * [Amazon EKS Workshop](https://eksworkshop.com/)
+* [Flagger on EKS App Mesh](https://docs.flagger.app/)
