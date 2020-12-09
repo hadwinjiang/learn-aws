@@ -22,6 +22,7 @@
 ### [Cost Saving](/domains/cost)
 ### [Developer](/domains/developer)
 ### [Network](/domains/network)
+### [Platform](/domains/platform)
 ### [Security](/domains/security)
 ### [Serverless](/domains/serverless)
 ### [Well-Architected](/domains/wellarchitect)

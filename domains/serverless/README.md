@@ -11,3 +11,4 @@
 ## Workshops
 
 * [CI/CD FOR SERVERLESS APPLICATIONS](https://cicd.serverlessworkshops.io/)
+* [WebApp WILD RYDES](https://webapp.serverlessworkshops.io/)
