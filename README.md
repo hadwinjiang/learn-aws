@@ -38,4 +38,5 @@
 * [AWS Blog](https://aws.amazon.com/blogs/)
 * [AWS Developer Blog](https://aws.amazon.com/blogs/developer/)
 * [AWS Whitepapers & Guides](https://aws.amazon.com/whitepapers/)
+* [AWS Workshops](https://workshops.aws/)
 * [What's New with AWS](https://aws.amazon.com/new)
